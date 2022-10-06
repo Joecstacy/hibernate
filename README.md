@@ -1,4 +1,4 @@
-# hibernate with annotation
+# Hibernate Simple Java Project with Annotation
 
 # A very basic java project with MySql connectivity via Hibernate ORM tool.
 # Add new student in Student table and corresponding address in Address table.
